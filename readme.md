@@ -1,3 +1,3 @@
 This is a complete git course
 
-This is feature1 branch
+This is bug branch created from feature 1
